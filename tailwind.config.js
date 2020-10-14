@@ -9,6 +9,7 @@ module.exports = {
   theme: {
     extend: {
       spacing: {
+        '70': '25rem',
         '80': '35rem'
       },
       backgroundColor: {
@@ -22,7 +23,8 @@ module.exports = {
         'simplifyYellow': '#FEBD11'
       },
       borderColor: {
-        'simplifyYellow': '#FEBD11'
+        'simplifyYellow': '#FEBD11',
+        'secondary': '#002E54',
       }
     }
   },

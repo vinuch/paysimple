@@ -1,6 +1,6 @@
 <template>
-  <div class="bg-secondary px-24  text-white">
-    <ul class="flex justify-around">
+  <div class="bg-secondary sm:px-24  text-white">
+    <ul class="flex flex-wrap sm:flex-no-wrap justify-around">
       <li class="mx-4 my-10">
         <h3 class="mb-4 text-3xl font-semibold">Unified <br> Platform</h3>
         <p class="text-sm">

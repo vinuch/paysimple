@@ -1,4 +1,4 @@
-<svg width="588" height="638" viewBox="0 0 588 638" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="589" height="639" viewBox="0 0 589 639" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g filter="url(#filter0_d)">
 <rect x="295.551" y="40" width="175.071" height="378.378" rx="10" transform="rotate(6 295.551 40)" fill="url(#pattern0)"/>
 <rect x="295.551" y="40" width="175.071" height="378.378" rx="10" transform="rotate(6 295.551 40)" stroke="#979797"/>
@@ -8,7 +8,7 @@
 <rect x="60" y="75.3167" width="194.366" height="420.264" rx="10" transform="rotate(-6 60 75.3167)" stroke="#979797"/>
 </g>
 <defs>
-<filter id="filter0_d" x="137.99" y="0.989746" width="449.683" height="630.626" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d" x="137" y="0" width="451.663" height="632.605" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
 <feOffset dy="79"/>
@@ -20,7 +20,7 @@
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0" transform="translate(0 -0.000935335) scale(0.00133333 0.000616915)"/>
 </pattern>
-<filter id="filter1_d" x="0.989685" y="0.989502" width="435.251" height="636.299" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter1_d" x="0" y="-0.000244141" width="437.231" height="638.278" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
 <feOffset dx="40" dy="45"/>
