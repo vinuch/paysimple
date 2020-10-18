@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-64 sm:mt-56 px-4 pt-24 bg-primary">
+  <div class="mt-32 sm:mt-56 px-4 pt-24 bg-primary">
     <h2 class="text-secondary text-center text-4xl font-semibold mt-24 sm:mt-32 mb-6">What you get when you open a Paysimple account?</h2>
     <p class="sm:w-6/12 text-center font-thin text-tgrey mx-auto">
       We are building a set of tools that helps MSMEs to manage and grow their businesses offline and online - 
