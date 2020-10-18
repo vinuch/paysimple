@@ -1,7 +1,7 @@
 <template>
-  <div class="absolute flex justify-between w-full px-4 py-10 sm:px-24">
+  <div class="absolute flex justify-between w-full px-4 py-10 sm:px-24 sm:mx-6">
     <div class=" ">
-      <img class="w-48" src="../assets/PaySimplelogo.png" alt="paysimple logo">
+      <img class="w-32" src="../assets/PaySimplelogo.png" alt="paysimple logo">
     </div>
     <img class="sm:hidden block" src="../assets/bars.svg" alt="menu icon">
     <div class="hidden sm:block">
