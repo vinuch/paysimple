@@ -1,7 +1,7 @@
 <template>
   <div class="bg-secondary h-full sm:-mb-70 pt-24 px-4 sm:pr-24 pb-48 sm:pb-0 sm:h- flex flex-wrap-reverse">
     <div class="sm:w-6/12 self-start relative">
-      <div class="flex overflow-x-scroll absolute -ml-4 left-0 sm:relative w-screen sm:w-full">
+      <div class="flex overflow-x-scroll absolute -mt-12 -ml-4 left-0 sm:relative w-screen sm:w-full">
         <img class="sm:-mx-16 w-70 sm:w-full -mx-8" src="https://res.cloudinary.com/vincecloud/image/upload/v1603141124/paysimple/Footwear_vvtnsf.svg" alt="">
         <img class="sm:-mx-16 w-70 sm:w-full -mx-8" src="https://res.cloudinary.com/vincecloud/image/upload/v1603141235/paysimple/Clothings_brk5ol.svg" alt="">
         <img class="sm:-mx-16 w-70 sm:w-full -mx-8" src="https://res.cloudinary.com/vincecloud/image/upload/v1603141235/paysimple/Clothings_brk5ol.svg" alt="">
