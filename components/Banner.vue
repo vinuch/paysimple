@@ -53,6 +53,4 @@
   .bg {
     top: -10rem;
   }
-  .bannerimg{
-  }
 </style>
