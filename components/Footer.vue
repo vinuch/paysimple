@@ -1,7 +1,9 @@
 <template>
   <div class=" pt-12 ">
     <div class="bg-gray-200 flex flex-wrap justify-around items-center pb-8 sm:px-24">
-      <img class="w-48 inline my-12" src="../assets/PaySimplelogo.png" alt="">
+      <div class="w-full sm:w-auto flex justify-center">
+        <img class="w-48 inline my-12" src="../assets/PaySimplelogo.png" alt="">
+      </div>
       <ul class="w-5/12 sm:w-auto">
         <li class="my-2 text-lg ">
           <h3 class="font-semibold text-tgrey">Quick links</h3>
