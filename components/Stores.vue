@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-secondary h-full sm:-mb-70 pt-24 px-4 sm:pr-24 pb-32 sm:pb-0 sm:h- flex flex-wrap-reverse">
+  <div class="bg-secondary h-full sm:-mb-70 pt-24 px-4 sm:pr-24 pb-48 sm:pb-0 sm:h- flex flex-wrap-reverse">
     <div class="sm:w-6/12 self-start relative">
       <div class="flex overflow-x-scroll absolute -ml-4 left-0 sm:relative w-screen sm:w-full" style="bottom: -30rem">
         <img class="sm:-mx-16 w-70 -mx-8" src="../assets/Footwear.svg" alt="">
