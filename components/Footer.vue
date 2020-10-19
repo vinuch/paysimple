@@ -11,9 +11,9 @@
         <li class="my-2 text-sm cursor-pointer font-light text-tgrey underline">Merchant Login <img class=" ml-2 inline" src="../assets/arrow.svg" alt=""></li>
         <li class="my-2 text-sm cursor-pointer font-light text-tgrey underline">Paysimple Store <img class=" ml-2 inline" src="../assets/arrow.svg" alt=""></li>
         <li class="my-2 text-sm cursor-pointer font-light text-tgrey"><h3>Social handles</h3></li>
-        <li class="my-2 text-sm cursor-pointer font-light text-tgrey flex justify-center">
-            <img class="mx-2 w-6" src="../assets/twitter.svg" alt="">
-            <img class="mx-2 w-6" src="../assets/facebook.svg" alt="">
+        <li class="my-2 text-sm cursor-pointer font-light text-tgrey flex justify-center items-center ">
+            <img class="mx-2 w-6 h-6" src="../assets/twitter.svg" alt="">
+            <img class="mx-2 w-6 h-6" src="../assets/facebook.svg" alt="">
         </li>
       </ul>
 
