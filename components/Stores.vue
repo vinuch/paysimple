@@ -1,7 +1,7 @@
 <template>
   <div class="bg-secondary h-full sm:-mb-70 pt-24 px-4 sm:pr-24 pb-32 sm:pb-0 sm:h- flex flex-wrap-reverse">
     <div class="sm:w-6/12 self-start relative">
-      <div class="flex overflow-x-scroll absolute left-0 sm:relative w-70 sm:w-full">
+      <div class="flex overflow-x-scroll absolute -ml-4 left-0 sm:relative w-screen sm:w-full" style="bottom: -30rem">
         <img class="sm:-mx-16 -mx-8" src="../assets/Footwear.svg" alt="">
         <img class="sm:-mx-16 -mx-8" src="../assets/Clothings.svg" alt="">
         <img class="sm:-mx-16 -mx-8" src="../assets/Clothings.svg" alt="">
