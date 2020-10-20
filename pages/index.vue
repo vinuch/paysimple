@@ -1,6 +1,6 @@
 <template>
-  <div class="bg-primary">
-    <Nav />
+  <div class="bg-primary" :class="navIsOpen ? 'overflow-y-hidden h-screen' : null">
+    <Nav :navIsOpen="navIsOpen" @toggle="navIsOpen = !navIsOpen"/>
     <Banner />
     <Stores />
     <Benefits />
@@ -29,6 +29,11 @@ import Footer from '../components/Footer'
       Agency,
       ContactCard,
       Footer
+    },
+    data() {
+      return {
+        navIsOpen: false
+      }
     }
   }
 </script>
