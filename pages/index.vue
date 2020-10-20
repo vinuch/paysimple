@@ -6,7 +6,6 @@
     <Benefits />
     <More />
     <Agency />
-    <ContactCard />
     <Footer />
   </div>
 </template>

@@ -38,7 +38,7 @@
       </li>
       <li class="mx-4 my-10">
         <img src="../assets/Invoice.svg" alt="" class="w-16 mb-4">
-        <h3 class="mb-4 text-3xl font-semibold">Direct <br>Invoicing</h3>
+        <h3 class="mb-4 text-3xl font-semibold">Professional <br>Invoicing</h3>
         <p class="text-sm">
           Create and Send Professional looking 
           invoices directly from your PaySimple 

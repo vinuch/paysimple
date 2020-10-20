@@ -12,12 +12,12 @@
           and grow your business with ease
         </p>
         <p class="text-tgrey">
-          Create an ecommerce website backed by powerful tools that help 
-          you find customers, drive sales, and manage your day-to-day.
+          PaySimple is still in private,  invite-only Beta. 
+          Click here to request early access"
         </p>
-        <div class="flex flex-wrap items-center  my-12">
-          <input class="border-2 bg-white border-simplifyYellow px-4 w-full h-16 sm:w-9/12 z-50  sm:rounded-tl-lg sm:rounded-bl-lg my-" type="email" name="" id="" placeholder="Your email address">
-          <button class="bg-simplifyYellow z-50 text-white h-16 md:rounded-tr-lg my-2 md:rounded-br-lg w-full sm:w-3/12 ">Get Started</button>
+        <div class="flex flex-wrap items-center  my-6">
+          <!-- <input class="border-2 bg-white border-simplifyYellow px-4 w-full h-16 sm:w-9/12 z-50  sm:rounded-tl-lg sm:rounded-bl-lg my-" type="email" name="" id="" placeholder="Your email address"> -->
+          <button class="bg-simplifyYellow z-50 text-white px-4 py-4 rounded-lg my-2 w-full sm:w-4/12">Request early access</button>
         </div>
         <div class="order-last hidden sm:block  w-full self-start lg:-mt-">
           <p class="text-tgrey text-center sm:text-left">Explore our mobile app</p>
